@@ -127,3 +127,35 @@ input:hover{
     background-color: royalblue;
     border-radius: 10px;
 }
+
+@media (max-width:450px) {
+    .txt h1{
+        font-size: 20px;
+        width: 200px;
+    }
+    .logo{
+        margin-top: 20px;
+    }
+    .cabecalho{
+        height: 150px;
+    }
+    .anuncio{
+        flex-direction: column;
+        margin-left: -153px;
+    }
+    .slide{
+     width: 392px;
+    }
+
+    .area_compra h3{
+        font-size: 25px;
+        width: 300px;
+        margin-left: 170px;
+        color: black;
+    }
+    .botao{
+        display: flex;
+        flex-direction: column;
+        margin-left: 170px;
+    }
+}
