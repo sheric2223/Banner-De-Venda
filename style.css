@@ -73,18 +73,19 @@ body{
 }
 
 input{
-    cursor: pointer;
     margin: 5px;
 }
 
 #button{
     height: 55px;
+    cursor: pointer;
 }
 
 #btn{
     width: 105px;
     height: 55px;
     margin-left: 5px;
+    cursor: pointer;
 }
 
 footer{
