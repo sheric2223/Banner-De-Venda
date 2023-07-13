@@ -107,6 +107,10 @@ input {
     justify-content: center;
 }
 
+a {
+    text-decoration: none;
+}
+
 input:hover{
     background-color: black;
     color: antiquewhite;
